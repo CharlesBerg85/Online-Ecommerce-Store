@@ -288,25 +288,25 @@ namespace ShopOnline.Api.Data
 
 			});
 			//Add Product Categories
-			modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
+			modelBuilder.Entity<productCategory>().HasData(new productCategory
 			{
 				Id = 1,
 				Name = "Beauty",
 				IconCSS = "fas fa-spa"
 			});
-			modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
+			modelBuilder.Entity<productCategory>().HasData(new productCategory
 			{
 				Id = 2,
 				Name = "Furniture",
 				IconCSS = "fas fa-couch"
 			});
-			modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
+			modelBuilder.Entity<productCategory>().HasData(new productCategory
 			{
 				Id = 3,
 				Name = "Electronics",
 				IconCSS = "fas fa-headphones"
 			});
-			modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
+			modelBuilder.Entity<productCategory>().HasData(new productCategory
 			{
 				Id = 4,
 				Name = "Shoes",
@@ -319,7 +319,7 @@ namespace ShopOnline.Api.Data
 		public DbSet<Cart> Carts { get; set; }
 		public DbSet<CartItem> CartItems { get; set; }
 		public DbSet<Product> Products { get; set; }
-		public DbSet<ProductCategory> ProductCategories { get; set; }
+		public DbSet<productCategory> ProductCategories { get; set; }
 		public DbSet<User> Users { get; set; }
 
 	}
