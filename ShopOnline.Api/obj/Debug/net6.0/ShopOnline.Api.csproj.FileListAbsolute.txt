@@ -59,3 +59,5 @@ C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Api\obj\Debug\
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.pdb
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.genruntimeconfig.cache
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Api\obj\Debug\net6.0\ref\ShopOnline.Api.dll
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Models.pdb

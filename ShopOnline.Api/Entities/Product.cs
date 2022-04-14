@@ -11,9 +11,5 @@ namespace ShopOnline.Api.Entities
         public decimal Price { get; set; }
         public int Qty { get; set; }
         public int CategoryId { get; set; }
-
-        [ForeignKey("CategoryId")]
-        public productCategory ProductCategory { get; set; }
-
     }
 }

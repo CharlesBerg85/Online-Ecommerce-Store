@@ -31,10 +31,15 @@ namespace ShopOnline.Api.Controllers
                 }
                 else
                 {
-                    var productDtos = products.ConvertToDto();
+                    var productDtos = products.ConvertToDto(productCategories);
 
                     return Ok(productDtos);
-                } 
+                }
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, 
+                                   "Error retrieving data from the databse");
             }
         }   
     }   
