@@ -13,7 +13,7 @@ namespace ShopOnline.Api.Repositories
         {
             this.shopOnlineDbContext = shopOnlineDbContext;
         }
-        public async Task<IEnumerable<productCategory>> GetCategories()
+        public async Task<IEnumerable<ProductCategory>> GetCategories()
         {
             var categories = await this.shopOnlineDbContext.ProductCategories.ToListAsync();
 
@@ -21,35 +21,22 @@ namespace ShopOnline.Api.Repositories
 
         }
 
-        public async Task<productCategory> GetCategory(int id)
+        public async Task<ProductCategory> GetCategory(int id)
         {
-            var category = await shopOnlineDbContext.ProductCategories.SingleOrDefaultAsync(c => c.Id == id);
-            return category;
+            throw new NotImplementedException();
         }
 
         public async Task<Product> GetItem(int id)
         {
-            var product = await shopOnlineDbContext.Products
-                                .Include(p => p.ProductCategory)
-                                .SingleOrDefaultAsync(p => p.Id == id);
-            return product;
+            throw new NotImplementedException();
         }
 
         public async Task<IEnumerable<Product>> GetItems()
         {
-            var products = await this.shopOnlineDbContext.Products
-                                     .Include(p => p.ProductCategory).ToListAsync();
+            var products = await this.shopOnlineDbContext.Products.ToListAsync();
 
             return products;
 
-        }
-
-        public async Task<IEnumerable<Product>> GetItemsByCategory(int id)
-        {
-            var products = await this.shopOnlineDbContext.Products
-                                     .Include(p => p.ProductCategory)
-                                     .Where(p => p.CategoryId == id).ToListAsync();
-            return products;
         }
     }
 }
