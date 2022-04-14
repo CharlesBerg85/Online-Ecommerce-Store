@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-tSv6NEbBsHuM5P3AUJGybafS0hxrXlzDmmcyG2eGk3I=",
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
-      "ShopOnline.Web.dll": "sha256-A868tXG+gWMYRAXxoMJlXQRBjKG1Ux+R3EHhW\/RmAOo="
+      "ShopOnline.Web.dll": "sha256-4N1XvocrRHfLa6DL5x6FZwcGOs7DEbR8efde84yNL8A="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ShopOnline.Web.pdb": "sha256-j+Y6EjkSI\/GgQROW0\/nvYlR89r3T20NIEvRQC4bysRA="
+      "ShopOnline.Web.pdb": "sha256-5ovnSfw5Tyz9KxuhmyE9GSeMCJhZ+hOnc4mdXkK3aRI="
     },
     "runtime": {
       "dotnet.6.0.3.8bskpubm4x.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",
