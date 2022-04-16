@@ -813,3 +813,11 @@ C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\OWaBP4Fv.gz
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\yZWVmBfj.gz
