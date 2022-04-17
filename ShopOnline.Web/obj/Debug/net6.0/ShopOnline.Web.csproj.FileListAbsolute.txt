@@ -821,3 +821,5 @@ C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\bin\Debug\
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\OWaBP4Fv.gz
 C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\yZWVmBfj.gz
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+C:\Users\The Berg\OneDrive\Projects\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
